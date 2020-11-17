@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogGuslev</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="button">Выбрать фон</string>
+    <color name="redColor">#FF0000</color>
+    <color name="yelloyColor">#FFFF00</color>
+    <color name="greenColor">#00FF00</color>
+    <string name="red">Красный</string>
+    <string name="Yellow">Желтый</string>
+    <string name="Green">Зеленый</string>
+</resources>
